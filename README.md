@@ -1,4 +1,4 @@
-# Address-Book-Managing-Program-
+# Address-Book-Managing-Program
 
 本人大一下课设成果。一个通讯录管理的系统，能够维护通讯录的变更、转入学生的通讯信息的插入、转出学生的通讯信息的删除、通讯录的查询等功能，通讯录要求按照学号排序。
 
